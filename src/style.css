@@ -8,6 +8,9 @@ body {
     height: 100vh;
 }
 
+form {
+    display: table-caption;
+}
 
 .container {
     display: flex;
